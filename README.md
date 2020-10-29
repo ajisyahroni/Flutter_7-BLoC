@@ -1,6 +1,6 @@
 # bloc_native
 
-A new Flutter project.
+master scaffold
 
 ## Getting Started
 
