@@ -1,6 +1,6 @@
 # bloc_native
 
-A new Flutter project.
+state management using bloc native
 
 ## Getting Started
 
