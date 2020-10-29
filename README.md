@@ -1,6 +1,6 @@
 # bloc_native
 
-master scaffold
+state management using bloc lib
 
 ## Getting Started
 
