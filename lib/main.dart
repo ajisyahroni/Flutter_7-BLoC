@@ -13,6 +13,13 @@ class _MyAppState extends State<MyApp> {
   ColorBloc colorBloc = ColorBloc();
 
   @override
+  void dispose() {
+    // close sink
+    colorBloc.dispose();
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: _title,
